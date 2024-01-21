@@ -1,0 +1,15 @@
+/Users/yousifwali/Desktop/Programming Languages/C#/Console Apps/Hospital Management/Hospital Management/bin/Debug/net7.0/Hospital Management
+/Users/yousifwali/Desktop/Programming Languages/C#/Console Apps/Hospital Management/Hospital Management/bin/Debug/net7.0/Hospital Management.deps.json
+/Users/yousifwali/Desktop/Programming Languages/C#/Console Apps/Hospital Management/Hospital Management/bin/Debug/net7.0/Hospital Management.runtimeconfig.json
+/Users/yousifwali/Desktop/Programming Languages/C#/Console Apps/Hospital Management/Hospital Management/bin/Debug/net7.0/Hospital Management.dll
+/Users/yousifwali/Desktop/Programming Languages/C#/Console Apps/Hospital Management/Hospital Management/bin/Debug/net7.0/Hospital Management.pdb
+/Users/yousifwali/Desktop/Programming Languages/C#/Console Apps/Hospital Management/Hospital Management/obj/Debug/net7.0/Hospital Management.csproj.AssemblyReference.cache
+/Users/yousifwali/Desktop/Programming Languages/C#/Console Apps/Hospital Management/Hospital Management/obj/Debug/net7.0/Hospital Management.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yousifwali/Desktop/Programming Languages/C#/Console Apps/Hospital Management/Hospital Management/obj/Debug/net7.0/Hospital Management.AssemblyInfoInputs.cache
+/Users/yousifwali/Desktop/Programming Languages/C#/Console Apps/Hospital Management/Hospital Management/obj/Debug/net7.0/Hospital Management.AssemblyInfo.cs
+/Users/yousifwali/Desktop/Programming Languages/C#/Console Apps/Hospital Management/Hospital Management/obj/Debug/net7.0/Hospital Management.csproj.CoreCompileInputs.cache
+/Users/yousifwali/Desktop/Programming Languages/C#/Console Apps/Hospital Management/Hospital Management/obj/Debug/net7.0/Hospital Management.dll
+/Users/yousifwali/Desktop/Programming Languages/C#/Console Apps/Hospital Management/Hospital Management/obj/Debug/net7.0/refint/Hospital Management.dll
+/Users/yousifwali/Desktop/Programming Languages/C#/Console Apps/Hospital Management/Hospital Management/obj/Debug/net7.0/Hospital Management.pdb
+/Users/yousifwali/Desktop/Programming Languages/C#/Console Apps/Hospital Management/Hospital Management/obj/Debug/net7.0/Hospital Management.genruntimeconfig.cache
+/Users/yousifwali/Desktop/Programming Languages/C#/Console Apps/Hospital Management/Hospital Management/obj/Debug/net7.0/ref/Hospital Management.dll
